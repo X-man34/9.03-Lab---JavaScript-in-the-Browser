@@ -11,7 +11,7 @@
 
 # Citation
 
-I am using ChatGPT 5.3 codes extra high with IDE context on my local installation for this task. 
+I am using ChatGPT 5.3 codex extra high with IDE context on my local installation for this task. 
 The prompt was especially easy, as all I did was copy the assignment description verbatim and upload the image. 
 I am satisfied with the output as it seems to do everything correctly. 
 
